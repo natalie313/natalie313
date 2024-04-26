@@ -1,6 +1,6 @@
 ### Oiii, eu sou a Natalie👋
 
-- 🔭 Hoje trabalho com Back-End
+- 🔭 Interesse em ser Dev Front-End
 - 🌱 Estudo Engenharia de Software
 - 😄 Pronomes: ela/dela
 
